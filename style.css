@@ -1,13 +1,30 @@
 body {
-    background-color: gray;
+    background-color:lightgoldenrodyellow
 }
 
-.post {
-    background-color: #fff
+.name {
+    padding: 5px 20px 5px 100px;
+    margin-bottom: 15px;  
+    font-size: 40px;
+}
+
+.img_foto {
+    padding-left: 75px;
+    border-radius: 50%;
+    margin-bottom: 15px;
 }
 
 #title, .subtitle, .post_title  {
-    color:darkred;
+    color:blueviolet;
+}
+#title {
+    font-size: 200px;
+}
+
+.post_title {
+    background-color: lightgray;
+    margin: 0;
+    margin-bottom: 15px;
 }
 
 .subtitle {
@@ -17,8 +34,21 @@ body {
 }
 .post {
     font-size: 49px;
-    padding: 29px;
+    padding: 15px;
     border: 10px solid black;
-    margin: 50px;
+    border-top: 15px dashed;
+    border-bottom: 15px dashed;
+    margin-bottom: 15px;
+    border-radius: 25px;
     
+}
+
+.post_content {
+    margin: 0;
+    margin-bottom: 15px;
+
+}
+.post_image {
+
+    margin-bottom: 15px;
 }
