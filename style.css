@@ -27,7 +27,7 @@ a {
     font-family: verdana;
 }
 #title {
-    font-size: 200px;
+    font-size: 100px;
     
     
 }
@@ -65,4 +65,13 @@ a {
 
     margin-bottom: 15px;
     width: 100%;
+}
+.links {
+      margin-bottom: 15px;
+      font-size: 50px;
+}
+.img_link {
+    width: 200px;
+    padding-top: 150px;
+
 }
